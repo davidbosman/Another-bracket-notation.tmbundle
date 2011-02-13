@@ -1,3 +1,5 @@
 forked from https://github.com/martinWeigel/bracket-notation.tmbundle
 
-Changed [] by {}, [] already being used in markdown syntax to create hyperlinks.
+Changed [] by {} for revisions and comments: [] already being used in markdown syntax to create hyperlinks.
+
+Changed shortcut to create '{}{}{}' from ^[ to ^@
